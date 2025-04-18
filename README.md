@@ -1,3 +1,6 @@
+![dag](https://i.imgur.com/VT0uitu.png)
+
+
 # dbt Snowflake Data Pipeline
 
 This repository contains dbt models that transform data in a Snowflake data warehouse. This README explains how to run these models using Apache Airflow with the Cosmos package.
